@@ -1,4 +1,4 @@
-# TrackMyTrades
+# Track My Trade
 
 This application parses your personal trade history on Questrade into a CSV file that allows you to review the details of each trade.
 
