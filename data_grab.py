@@ -325,7 +325,7 @@ def field_names():
 def grab_data(config):
     account_id = get_account_id(config)
 
-    year = 2020
+    year = int(input("Enter year: "))
     month = int(input("Enter month: "))
 
     fx_rates = import_fx_rates(year, month)
