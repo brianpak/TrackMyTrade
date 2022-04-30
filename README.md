@@ -12,4 +12,4 @@ Install Python 3 with version 3.8+
 - Edit **config - Template.txt** file with correct values and save it as **config.txt**.
 
 ## Sample Result
-![Trades 2020-12](https://user-images.githubusercontent.com/5490407/166123546-e59ef37f-6de2-47f9-b7c2-33818e3c7cc8.png)
+![Trades 2020-12](output/2020/12.csv)
