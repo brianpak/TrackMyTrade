@@ -11,4 +11,5 @@ Install Python 3 with version 3.8+
 - Follow the instructions on this [page](https://www.questrade.com/api/documentation/getting-started) to set up the connection with Questrade API.
 - Edit **config - Template.txt** file with correct values and save it as **config.txt**.
 
-- [Sample result](https://github.com/brianpak/TrackMyTrades/files/8597851/12.pdf)
+## Sample Result
+![Trades 2020-12](https://user-images.githubusercontent.com/5490407/166123546-e59ef37f-6de2-47f9-b7c2-33818e3c7cc8.png)
